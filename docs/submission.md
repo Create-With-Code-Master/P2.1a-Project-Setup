@@ -6,8 +6,8 @@ layout: tabbed-assignment
 
 For this assignment you are submitting two pieces of evidence:
 
-* A link to the **{{site.data.assignment.git-current-branch}}** branch of your **{{site.data.assignment.starter-code-repo}}** repository on GitHub.
-* A screen capture of your **{{site.data.assignment.starter-code-repo}}** repository on GitHub showing the **{{site.data.assignment.git-current-branch}}** branch.
+* A link to the **{{site.data.assignment.git-curr-branch}}** branch of your **{{site.data.assignment.starter-code-repo}}** repository on GitHub.
+* A screen capture of your **{{site.data.assignment.starter-code-repo}}** repository on GitHub showing the **{{site.data.assignment.git-curr-branch}}** branch.
 
 At the end of class:
 
