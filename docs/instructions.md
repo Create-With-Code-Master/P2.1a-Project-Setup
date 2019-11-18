@@ -19,6 +19,7 @@ layout: tabbed-assignment
     - GitHub Desktop will initialize a Git repository in an existing folder - even though the label on the button is "Create New Repository…" To make this work, you **must** make sure the path given to GitHub Desktop points to the folder you created in Unity Hub. In GitHub Desktop the path is built from two parts:
     
         <imp src="assets/images/GitHub Desktop Create New Repository.png">
+    
         - The *repository name* in the **Name** field.
         - The name of the folder holding your Prototype-2 project in the **Local Path** field.
 
