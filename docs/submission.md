@@ -4,6 +4,11 @@ layout: tabbed-assignment
 
 # Submission Instructions
 
+For this assignment you are submitting two pieces of evidence:
+
+* A link to the **{{site.data.assignment.git-current-branch}}** branch of your **{{site.data.assignment.starter-code-repo}}** repository on GitHub.
+* A screen capture of your **{{site.data.assignment.starter-code-repo}}** repository on GitHub showing the **{{site.data.assignment.git-current-branch}}** branch.
+
 At the end of class:
 
 1. Commit and push your changes.
