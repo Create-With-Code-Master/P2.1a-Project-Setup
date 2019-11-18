@@ -9,24 +9,11 @@ For this assignment you are submitting two pieces of evidence:
 * A link to the **{{site.data.assignment.git-curr-branch}}** branch of your **{{site.data.assignment.starter-code-repo}}** repository on GitHub.
 * A screen capture of your **{{site.data.assignment.starter-code-repo}}** repository on GitHub showing the **{{site.data.assignment.git-curr-branch}}** branch.
 
-At the end of class:
+**Once you have completed the assignment:**
 
-1. Commit and push your changes.
-
-<b>If you are still working on the lesson:</b>
-
-1. Submit a link to the **{{site.data.assignment.git-current-branch}}** branch of your **{{site.data.assignment.starter-code-repo}}** repository on GitHub.
-1. Leave a brief comment explaining:
-   - The step you were working on at the end of the block.
-   - Where you got stuck or bogged down.
-1. Update your notes so that you know where you were and what to get started on next class.
-1. Be sure to complete the lesson and resubmit.
-
-<b>If you have completed the lesson:</b>
-
-1. Make yourself an editable copy of the [submission template][template] for this assignment. 
+1. Make a copy of the [submission template][template] for this assignment. 
 If you need tips on how to do this, expand the instructions below. Then…
-1. Make sure that you have completed the [template][] completely.
+1. Complete the template.
 1. Submit as usual.
 
 {% include submission-boilerplate.html %}
