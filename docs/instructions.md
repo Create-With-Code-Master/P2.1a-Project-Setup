@@ -6,6 +6,15 @@ layout: tabbed-assignment
 
 {% include time-estimate.html %}
 
+1. Start your notes. Make an entry in your notebook with:
+    - Today's date
+    - What you're working on, perhaps **Getting started on Prototype 2.**
+1. In your browser, go to [Prototype 2: Lesson 1: Player Positioning][lesson].
+
+   For this assignment, we'll be working through the first video to set up the project in Unity. We'll also create a new repostitory on GitHub to hold the code and track your changes. The instructions for creating the Git repository and pushing it to GitHub are in the [slides][].
+   
+1. Follow the instructions in the video to create a new Unity project for Prototype 2 - before importing the project assets, create a Git repository for your work and publish it on GitHub. Follow along in class or use the [slides][].
+
 <p>
 <details>
 <summary>Launch GitHub Desktop and make sure that your local copy of the {{site.data.assignment.starter-code-repo}} repository is up to date.</summary>
