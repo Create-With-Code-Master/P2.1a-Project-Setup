@@ -4,7 +4,7 @@
 git-curr-branch: lesson-1
 get-prev-branch: 
 # Link to an external lesson (e.g., a lesson on Code.org or TestOut).
-lesson: 
+lesson: https://learn.unity.com/tutorial/lesson-2-1-control-player-bounds-with-if-then-statements
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
 outcome: You will have Prototype 2 set up, with a new Unity project and a corresponding GitHub repository.
