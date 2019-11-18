@@ -18,7 +18,7 @@ layout: tabbed-assignment
     - **The project name you set in Unity Hub will also be the name of the repository in GitHub. GitHub does not allow spaces in repository names.** Use dashes (-) in place of spaces when you give the project its name (i.e., call it Prototype-2 **not Prototype 2**.
     - GitHub Desktop will initialize a Git repository in an existing folder - even though the label on the button is "Create New Repository…" To make this work, you **must** make sure the path given to GitHub Desktop points to the folder you created in Unity Hub. In GitHub Desktop the path is built from two parts:
     
-        <img src="assets/images/GitHub Desktop Create New Repository.png">
+        <img src="assets/images/GitHub Desktop Create New Repository.png" align="right" width="33%">
     
         - The *repository name* in the **Name** field.
         - The name of the folder holding your Prototype-2 project in the **Local Path** field.
